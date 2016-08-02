@@ -1,0 +1,38 @@
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/193-view-194.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/206-view-207.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/213-view-214.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/413-view-414.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/AboutViewController.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/ClockViewController.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/SplitsViewController.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/StopwatchViewController.nib
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/bin/iPhoneSimulator/Debug/Clock.exe.mdb
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/bin/iPhoneSimulator/Debug/Clock.exe
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/Clock.exe
+/Users/ivoraddo/Desktop/Xamarin Training/Week 9/Week 9 Study Guide - Experienced Group/Part 03 Resources/Lab.Start/Clock/obj/iPhoneSimulator/Debug/Clock.exe.mdb
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/.DS_Store
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/193-view-194.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/206-view-207.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/213-view-214.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/413-view-414.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/AboutViewController.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/ClockViewController.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/SplitsViewController.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/StopwatchViewController.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/optimized/
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/bin/iPhoneSimulator/Debug/Clock.exe.mdb
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/bin/iPhoneSimulator/Debug/Clock.exe
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/Clock.exe
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/Clock.exe.mdb
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/498-view-500.nib
+/Users/myaccount/Desktop/iOS - Week 4 Assignment Study Guide /Part 03 Resources/Start/Clock/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UISplitViewController-512.nib

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Clock/Clock.csproj">
+  <MonoDevelop.Ide.ItemProperties.Clock PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.42A84FB9-2175-433F-B639-491E5F488B6E" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Clock/MenuTableViewController.cs" Line="21" Column="3" />
+      <File FileName="Clock/ViewControllers/StopwatchViewController.cs" Line="16" Column="57" />
+      <File FileName="Clock/ViewControllers/SplitsViewController.cs" Line="39" Column="47" />
+      <File FileName="Clock/ViewControllers/ClockViewController.cs" Line="1" Column="1" />
+      <File FileName="Clock/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
